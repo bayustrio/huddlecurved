@@ -397,6 +397,10 @@ section{
  /* Responsive mobile  */
 @media (max-width:480px) {
 
+    section{
+        min-height: 100%;
+    }
+
     .navbar{
         align-items: center;
     }
